@@ -1,5 +1,5 @@
 # Poster from the Amazon USC Symposium 2024 
 
-### Paper and Code coming soon.
+### Paper under review.
 
 ![](AmazonUSCSymposiumPoster.png)
