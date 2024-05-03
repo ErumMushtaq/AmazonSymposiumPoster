@@ -1,1 +1,1 @@
-![plot](AmazonUSCSymposiumPoster.png)
+![](AmazonUSCSymposiumPoster.png)
